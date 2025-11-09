@@ -1,4 +1,5 @@
 Introducción
+
 En la actualidad, la cobertura y la calidad de las redes WiFi es esencial para las actividades académicas y administrativas en los campus universitarios. La gestión eficiente de los puntos de acceso (AP) es clave para evitar interrupciones, detectar incidencias y garantizar una conectividad óptima.
 
 Descripción del sistema
